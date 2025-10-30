@@ -15,7 +15,7 @@
   "devDependencies": {
     "turbo": "^1.12.5"
   },
-  "repository": "https://github.com/OlgaMozejko/a11yroots.git",
+  "repository": "https://github.com/OlgaMozejko/a11y-roots.git",
   "author": "Olga Mozejko <o.mozejko@gmail.com>",
   "license": "MIT"
 }
