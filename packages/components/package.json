@@ -1,5 +1,5 @@
 {
-  "name": "@a11yroots/components",
+  "name": "@a11y-roots/components",
   "version": "0.1.0",
   "description": "Accessible React Native components",
   "main": "lib/commonjs/index.js",
